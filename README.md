@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on:
 - - Exploring how the latest GPU hardware influence programming. 
 - - - Device-wide synchronization introduced from CUDA 9.0 -> Details pls refer to PERKS repository. 
-- - - Other features like async shared memory copy and large cache systems. 
+- - - Other features like async shared memory copy and large cache systems (now working on). 
 
 <!---
 neozhang307/neozhang307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

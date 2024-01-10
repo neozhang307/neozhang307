@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lingqi ZHANG, a Ph.D. at the Tokyo Institute of Technology. 
+- 👋 Hi, I’m Lingqi ZHANG, a Post Doctoral at RIKEN.
 - 👀 I’m interested in parallel programming and related techniques, especially GPU programming. 
 - 🌱 I’m currently working on:
 - - Exploring how the latest GPU hardware influences programming. 

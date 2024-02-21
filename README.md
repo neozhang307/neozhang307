@@ -2,7 +2,7 @@
 - 👀 I’m interested in parallel programming and related techniques, especially GPU programming. 
 - 🌱 I’m currently working on:
 - - Exploring how the latest GPU hardware influences programming. 
-- - - Device-wide synchronization introduced from CUDA 9.0 -> Details pls refer to [PERKS repository](https://github.com/neozhang307/PERKS).
+- - - Device-wide synchronization introduced from CUDA 9.0 -> Details pls refer to [PERKS repository](https://github.com/neozhang307/PERKS) and [Reduction Case Study](https://github.com/neozhang307/Reduction).
 - - - Other features like async shared memory copy and large cache systems -> Details pls refer to [EBISU repository](https://github.com/neozhang307/EBISU-ICS23). 
 
 <!---
